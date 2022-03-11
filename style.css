@@ -3,6 +3,8 @@ body {
     display: grid;
     height: 100vh;
     place-items: center;
+    background-image: url("fundo_tibia_live.png");
+    background-repeat: repeat;
 
 }
 
